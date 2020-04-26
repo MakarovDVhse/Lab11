@@ -1,0 +1,9 @@
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\bin\Debug\Lab11.3.exe.config
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\bin\Debug\Lab11.3.exe
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\bin\Debug\Lab11.3.pdb
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\bin\Debug\LibraryShipClass.dll
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\bin\Debug\LibraryShipClass.pdb
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\obj\Debug\Lab11.3.csprojAssemblyReference.cache
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\obj\Debug\Lab11.3.csproj.CopyComplete
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\obj\Debug\Lab11.3.exe
+C:\Users\Dmitriy Makarov\source\repos\Lab11\Lab11.3\obj\Debug\Lab11.3.pdb

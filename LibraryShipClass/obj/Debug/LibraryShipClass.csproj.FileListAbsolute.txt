@@ -1,0 +1,5 @@
+C:\Users\Dmitriy Makarov\source\repos\Lab11\LibraryShipClass\bin\Debug\LibraryShipClass.dll
+C:\Users\Dmitriy Makarov\source\repos\Lab11\LibraryShipClass\bin\Debug\LibraryShipClass.pdb
+C:\Users\Dmitriy Makarov\source\repos\Lab11\LibraryShipClass\obj\Debug\LibraryShipClass.dll
+C:\Users\Dmitriy Makarov\source\repos\Lab11\LibraryShipClass\obj\Debug\LibraryShipClass.pdb
+C:\Users\Dmitriy Makarov\source\repos\Lab11\LibraryShipClass\obj\Debug\LibraryShipClass.csprojAssemblyReference.cache
